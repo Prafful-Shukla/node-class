@@ -1,0 +1,1 @@
+fs.readFileSync("fs.txt","utf-8");
